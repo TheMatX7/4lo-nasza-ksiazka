@@ -32,6 +32,15 @@
     width: 100%;
 }
 
+marquee
+
+{
+    margin-right: 15px; 
+    margin-bottom: 8px; 
+    border: 1px solid rgb(0, 0, 0); 
+    box-shadow:3px 3px 6px black;
+} 
+
 footer {
     text-align: center;
     padding: 3px;
